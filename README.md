@@ -1,16 +1,13 @@
-### Hi there 👋
+```
+ __  __     ______   __  __     ______     ______     ______     __   __    
+/\_\_\_\   /\__  _\ /\ \_\ \   /\  ___\   /\  __ \   /\  __ \   /\ "-.\ \   
+\/_/\_\/_  \/_/\ \/ \ \____ \  \ \ \____  \ \ \/\ \  \ \ \/\ \  \ \ \-.  \  
+  /\_\/\_\    \ \_\  \/\_____\  \ \_____\  \ \_____\  \ \_____\  \ \_\\"\_\ 
+  \/_/\/_/     \/_/   \/_____/   \/_____/   \/_____/   \/_____/   \/_/ \/_/ 
+                                                                            
+```
 
-<!--
-**xTycoonFi/xTycoonFi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Donate or Support
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bitcoin** - `bc1qp4zxxj0k0whkm483qv5dk2rs6sgh2tt70h44rf`
+- **Ethereum** - `0xbFF3eE7d3648Ce6b7DE82dEa427c3A1629aaf671`
